@@ -1,2 +1,2 @@
 # foto360
-360 photography project
+Arduino part od 360deg fotography project, for WUT PROJ 1 & 2
